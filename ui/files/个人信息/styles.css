@@ -1,0 +1,884 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:748px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u28_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:562px;
+  height:288px;
+  background:inherit;
+  background: #FAEFEF;
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u28 {
+  border-width:0px;
+  position:absolute;
+  left:186px;
+  top:66px;
+  width:562px;
+  height:288px;
+}
+#u28_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u29_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u29 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:114px;
+  width:87px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u29_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  white-space:nowrap;
+}
+#u30_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u30 {
+  border-width:0px;
+  position:absolute;
+  left:349px;
+  top:114px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u30_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u31_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u31 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:175px;
+  width:239px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u31_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u32_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u32 {
+  border-width:0px;
+  position:absolute;
+  left:477px;
+  top:175px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u32_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u33_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u33 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:252px;
+  width:239px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u33_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u34_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u34 {
+  border-width:0px;
+  position:absolute;
+  left:438px;
+  top:252px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u34_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u35_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:562px;
+  height:288px;
+  background:inherit;
+  background: #FAEFEF;
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u35 {
+  border-width:0px;
+  position:absolute;
+  left:186px;
+  top:388px;
+  width:562px;
+  height:288px;
+}
+#u35_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u36_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u36 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:436px;
+  width:87px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u36_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  white-space:nowrap;
+}
+#u37_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u37 {
+  border-width:0px;
+  position:absolute;
+  left:349px;
+  top:436px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u37_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u38_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u38 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:497px;
+  width:239px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u38_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u39_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u39 {
+  border-width:0px;
+  position:absolute;
+  left:477px;
+  top:497px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u39_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u40_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u40 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:574px;
+  width:239px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u40_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u41_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u41 {
+  border-width:0px;
+  position:absolute;
+  left:438px;
+  top:574px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u41_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u42_img {
+  border-width:0px;
+  position:absolute;
+  left:-2px;
+  top:-13px;
+  width:98px;
+  height:31px;
+}
+#u42 {
+  border-width:0px;
+  position:absolute;
+  left:93px;
+  top:199px;
+  width:83px;
+  height:5px;
+}
+#u42_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u43_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u43 {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:175px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u43_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u44_img {
+  border-width:0px;
+  position:absolute;
+  left:-2px;
+  top:-13px;
+  width:98px;
+  height:31px;
+}
+#u44 {
+  border-width:0px;
+  position:absolute;
+  left:93px;
+  top:551px;
+  width:83px;
+  height:5px;
+}
+#u44_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u45_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u45 {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:527px;
+  width:129px;
+  height:41px;
+  font-family:'Broadway Normal', 'Broadway';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+}
+#u45_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  word-wrap:break-word;
+}
+#u46_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:671px;
+  top:73px;
+  width:66px;
+  height:26px;
+}
+#u46_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:62px;
+  word-wrap:break-word;
+}
+#u47_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:56px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u47 {
+  border-width:0px;
+  position:absolute;
+  left:609px;
+  top:395px;
+  width:56px;
+  height:25px;
+}
+#u47_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:52px;
+  word-wrap:break-word;
+}
+#u48_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:44px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u48 {
+  border-width:0px;
+  position:absolute;
+  left:609px;
+  top:73px;
+  width:44px;
+  height:26px;
+}
+#u48_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:40px;
+  word-wrap:break-word;
+}
+#u49_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u49 {
+  border-width:0px;
+  position:absolute;
+  left:675px;
+  top:395px;
+  width:66px;
+  height:26px;
+}
+#u49_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:62px;
+  word-wrap:break-word;
+}
+#u50_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:44px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:555px;
+  top:73px;
+  width:44px;
+  height:26px;
+}
+#u50_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:40px;
+  word-wrap:break-word;
+}
+#u51_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:44px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:555px;
+  top:394px;
+  width:44px;
+  height:26px;
+}
+#u51_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:40px;
+  word-wrap:break-word;
+}
